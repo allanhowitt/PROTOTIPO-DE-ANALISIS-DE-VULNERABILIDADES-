@@ -1,5 +1,6 @@
 # PROTOTIPO-DE-ANALISIS-DE-VULNERABILIDADES-
 IMPLEMENTAR UN PROTOTIPO DE ANÁLISIS DE VULNERABILIDADES BASADO EN INTELIGENCIA ARTIFICIAL PARA MITIGAR FALSOS POSITIVOS DE LOS PROCESOS DE PENTESTING AUTOMATIZADOS
+
 Este estudio propone un prototipo basado en inteligencia artificial para el análisis de vulnerabilidades, orientado a reducir falsos positivos en pruebas automatizadas de penetración. La iniciativa surge ante la creciente necesidad de mejorar la precisión en la detección de vulnerabilidades reales, en un entorno caracterizado por alta automatización y abundancia de alertas no verificables.
 La investigación emplea un enfoque mixto, combinando métodos cuantitativos y descriptivos. En la primera fase, se realiza una revisión sistemática de literatura especializada para identificar técnicas y procesos aplicados en herramientas de pentesting, utilizando bases de datos científicas y criterios de inclusión definidos.
 Posteriormente, se construye un marco de datos para entrenar el prototipo, incorporando conjuntos diversificados como DiverseVul, reconocido por su cobertura amplia de vulnerabilidades comunes. La implementación se desarrolla con herramientas como OWASP ZAP, bibliotecas de aprendizaje automático y plataformas computacionales que aseguran un procesamiento eficiente.
